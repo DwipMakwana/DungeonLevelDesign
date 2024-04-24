@@ -1,5 +1,5 @@
 # Dungeon Level Design
-Designed a level from differenct phases from paper design, whiteboxing to mesh pass, and lighting pass with scripted playable build to test out the mission to exit the dungeon with witty hints and small puzzles.
+Designed a level from differenc phases from paper design, white-boxing to mesh pass, and lighting pass with scripted playable build to test out the mission to exit the dungeon with witty hints and small puzzles.
 
 
 ## Screenshots
